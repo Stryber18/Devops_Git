@@ -4,4 +4,5 @@ git commit -m "message"
 git log
 git restore
 git rm --cached
+git checkout -b dev
 
